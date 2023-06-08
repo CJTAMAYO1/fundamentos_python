@@ -15,5 +15,6 @@ print(3**3)
 # Operadores string 
 # + para contatenar
 # * replicar un string 
+
 print("Hola a"+"Todos!")
-print("DSM 3A"*4)
+print("DSM 3A " *4)
