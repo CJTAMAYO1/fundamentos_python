@@ -1,4 +1,4 @@
-# funcion print ()
+# function print ()
 print("Este es un string","Hola adrian")
 print ("este es un entero", 35)
 print ("Este es un float", 3.14)
@@ -10,3 +10,4 @@ print(type(True))
 print(type(3.14))
 print(type(3))
 print(type(""))
+
