@@ -20,7 +20,6 @@ Escribe una Opcion
 choice_user = input (choice_text)
 
 # Imprime Seleccion
-
 print("Usuario Elije: ", choice_user)
 print("Maquina Elije: ", choice_maq)
 
@@ -39,4 +38,4 @@ else:
     elif choice_user == 'Tijeras' and choice_maq == 'Piedra':
         print("Gana Usuario")
     else:
-        print("Escribe bien Usuario") 
+        print("Escribe bien Usuario")
