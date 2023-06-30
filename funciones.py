@@ -29,3 +29,20 @@ lista_drinks("tequila","juice")
 lista_drinks("tequila")
 lista_drinks()
 lista_drinks(d2='soda',d1="vodka")
+
+def resta(num1, num2):
+    return num1-num2
+
+result= resta(13,2)
+print(result)
+
+def duplica_lista(lista):
+    new_list =[]
+    for item in lista:
+        new_list.append (item*2)
+    return new_list
+
+my_list=[1,2,3,4,5]
+print(my_list)
+new_list=duplica_lista(my_list)
+print(new_list)
